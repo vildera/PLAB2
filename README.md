@@ -1,2 +1,2 @@
 # PLAB2
-Repository for øvinger i Programmeringslab - TDT4113
+Respository for assignments for the course TDT4113
